@@ -35,4 +35,4 @@ switch (consulta) {
         alert("gracias por su visita, lo esperamos pronto")
         break;}
 
-       
+       alert("gracias por su compra")
